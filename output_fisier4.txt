@@ -1,0 +1,319 @@
+Solutii obtinute cu A*:
+Solutie:
+ab
+ab
+cf
+fd
+rd
+
+ab
+ab
+
+Cost: 0.5
+Lungime: 2
+Timp gasire solutie: 0.0 secunde
+Numarul de noduri generate (succesori) 11
+Numarul maxim de noduri de la un moment dat din memorie: 11
+
+----------------
+Solutie:
+ab
+ab
+cf
+fd
+rd
+
+ab
+ab
+fd
+rd
+
+ab
+ab
+
+Cost: 1.6666666666666665
+Lungime: 3
+Timp gasire solutie: 0.0 secunde
+Numarul de noduri generate (succesori) 61
+Numarul maxim de noduri de la un moment dat din memorie: 48
+
+----------------
+Solutie:
+ab
+ab
+cf
+fd
+rd
+
+ab
+ab
+cf
+rd
+
+ab
+ab
+
+Cost: 1.6666666666666665
+Lungime: 3
+Timp gasire solutie: 0.0 secunde
+Numarul de noduri generate (succesori) 65
+Numarul maxim de noduri de la un moment dat din memorie: 50
+
+----------------
+Solutii obtinute cu A* opt:
+Solutie:
+ab
+ab
+cf
+fd
+rd
+
+ab
+ab
+
+Cost: 0.5
+Lungime: 2
+Timp gasire solutie: 0.0 secunde
+Numarul de noduri generate (succesori) 11
+Numarul maxim de noduri de la un moment dat din memorie: 12
+
+----------------
+Solutii obtinute cu UCS:
+Solutie:
+ab
+ab
+cf
+fd
+rd
+
+ab
+ab
+
+Cost: 0.5
+Lungime: 2
+Timp gasire solutie 0.0 secunde
+Numarul de noduri generate (succesori) 11
+Numarul maxim de noduri de la un moment dat din memorie: 11
+
+----------------
+Solutie:
+ab
+ab
+cf
+fd
+rd
+
+ab
+ab
+fd
+rd
+
+ab
+ab
+
+Cost: 1.6666666666666665
+Lungime: 3
+Timp gasire solutie 0.0 secunde
+Numarul de noduri generate (succesori) 61
+Numarul maxim de noduri de la un moment dat din memorie: 48
+
+----------------
+Solutie:
+ab
+ab
+cf
+fd
+rd
+
+ab
+ab
+cf
+rd
+
+ab
+ab
+
+Cost: 1.6666666666666665
+Lungime: 3
+Timp gasire solutie 0.0 secunde
+Numarul de noduri generate (succesori) 65
+Numarul maxim de noduri de la un moment dat din memorie: 50
+
+----------------
+Limita de pornire: 1
+A ajuns la:
+ab
+ab
+cf
+fd
+rd
+
+
+A ajuns la:
+ab
+cf
+fd
+rd
+
+
+Compara 2.0 cu inf
+Noul minim: 2.0
+A ajuns la:
+ab
+fd
+rd
+
+
+Compara 1.6666666666666665 cu 2.0
+Noul minim: 1.6666666666666665
+A ajuns la:
+ab
+rd
+
+
+Compara 1.5 cu 1.6666666666666665
+Noul minim: 1.5
+A ajuns la:
+ab
+ab
+fd
+rd
+
+
+Compara 2.0 cu 1.5
+A ajuns la:
+ab
+ab
+rd
+
+
+Compara 1.6666666666666665 cu 1.5
+A ajuns la:
+ab
+ab
+
+
+Compara 1.5 cu 1.5
+A ajuns la:
+ab
+ab
+cf
+rd
+
+
+Compara 2.0 cu 1.5
+A ajuns la:
+ab
+ab
+cf
+
+
+Compara 1.6666666666666665 cu 1.5
+A ajuns la:
+ab
+ab
+cf
+fd
+
+
+Compara 2.0 cu 1.5
+A ajuns la:
+b
+b
+f
+d
+d
+
+
+Compara 5.0 cu 1.5
+A ajuns la:
+a
+a
+c
+f
+r
+
+
+Compara 4.0 cu 1.5
+1.5
+>>> Limita noua: 1.5
+Limita de pornire: 1.5
+A ajuns la:
+ab
+ab
+cf
+fd
+rd
+
+
+A ajuns la:
+ab
+cf
+fd
+rd
+
+
+Compara 2.0 cu inf
+Noul minim: 2.0
+A ajuns la:
+ab
+fd
+rd
+
+
+Compara 1.6666666666666665 cu 2.0
+Noul minim: 1.6666666666666665
+A ajuns la:
+ab
+rd
+
+
+A ajuns la:
+b
+d
+
+
+Compara 3.5 cu inf
+Noul minim: 3.5
+A ajuns la:
+a
+r
+
+
+Compara 3.5 cu 3.5
+Compara 3.5 cu 1.6666666666666665
+A ajuns la:
+ab
+ab
+fd
+rd
+
+
+Compara 2.0 cu 1.6666666666666665
+A ajuns la:
+ab
+ab
+rd
+
+
+Compara 1.6666666666666665 cu 1.6666666666666665
+A ajuns la:
+ab
+ab
+
+
+Solutie: 
+ab
+ab
+cf
+fd
+rd
+
+ab
+ab
+
+Cost: 0.5
+Lungime: 2
+1.5
+----------------
+gata

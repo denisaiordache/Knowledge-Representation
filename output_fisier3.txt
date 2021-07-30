@@ -1,0 +1,56 @@
+Solutii obtinute cu A*:
+Solutie:
+abc
+def
+ghi
+
+Cost: 0
+Lungime: 1
+Timp gasire solutie: 0.0 secunde
+Numarul de noduri generate (succesori) 0
+Numarul maxim de noduri de la un moment dat din memorie: 0
+
+----------------
+Solutii obtinute cu A* opt:
+Solutie:
+abc
+def
+ghi
+
+Cost: 0
+Lungime: 1
+Timp gasire solutie: 0.0 secunde
+Numarul de noduri generate (succesori) 0
+Numarul maxim de noduri de la un moment dat din memorie: 0
+
+----------------
+Solutii obtinute cu UCS:
+Solutie:
+abc
+def
+ghi
+
+Cost: 0
+Lungime: 1
+Timp gasire solutie 0.0 secunde
+Numarul de noduri generate (succesori) 0
+Numarul maxim de noduri de la un moment dat din memorie: 0
+
+----------------
+Limita de pornire: 1
+A ajuns la:
+abc
+def
+ghi
+
+
+Solutie: 
+abc
+def
+ghi
+
+Cost: 0
+Lungime: 1
+1
+----------------
+gata
